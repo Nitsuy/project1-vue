@@ -61,7 +61,7 @@ export default{
     <div class="display">{{current || '0'}}</div>
     <div @click="result" class="btn">=</div>
   </div>
-  <h1>trying stuff out</h1>
+  <h1>ESDN Scale</h1>
 
   <div class="card">
     <button type="button" @click="">The country gets a ranking of: {{ current }}</button>
